@@ -39,6 +39,13 @@ h1{
     box-shadow: 0px 0px 7px 3px gray;
 }
 
+.col:hover{
+    transition: 0.4s;
+    opacity: .8;
+    position: relative;
+    top: 10px;
+}
+
 .col img{
     width: 100px;
     float: left;
