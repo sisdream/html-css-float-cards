@@ -4,12 +4,22 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Fredoka', serif;
+}
+
+
 .container{
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     text-align: center;
 }
 
 h1{
     color: #e53170;
+    margin-top: 40px;
+}
+
+.text-container{
+    margin-top: 30px;
 }
